@@ -1,0 +1,132 @@
+[
+  {
+    "name": "01-directory-imported",
+    "memory": {
+      "mainRssMB": 89.5,
+      "heapUsedMB": 4,
+      "totalRssMB": 358.3,
+      "processes": [
+        {
+          "type": "Browser",
+          "rssMB": 89.5
+        },
+        {
+          "type": "GPU",
+          "rssMB": 108.2
+        },
+        {
+          "type": "Utility",
+          "rssMB": 45.6
+        },
+        {
+          "type": "Tab",
+          "rssMB": 115
+        }
+      ]
+    }
+  },
+  {
+    "name": "02-log-viewer",
+    "memory": {
+      "mainRssMB": 192.2,
+      "heapUsedMB": 4.3,
+      "totalRssMB": 507.9,
+      "processes": [
+        {
+          "type": "Browser",
+          "rssMB": 192.2
+        },
+        {
+          "type": "GPU",
+          "rssMB": 115.7
+        },
+        {
+          "type": "Utility",
+          "rssMB": 45.6
+        },
+        {
+          "type": "Tab",
+          "rssMB": 154.4
+        }
+      ]
+    }
+  },
+  {
+    "name": "03-deep-line",
+    "memory": {
+      "mainRssMB": 202,
+      "heapUsedMB": 4.6,
+      "totalRssMB": 518.9,
+      "processes": [
+        {
+          "type": "Browser",
+          "rssMB": 202
+        },
+        {
+          "type": "GPU",
+          "rssMB": 115.9
+        },
+        {
+          "type": "Utility",
+          "rssMB": 45.6
+        },
+        {
+          "type": "Tab",
+          "rssMB": 155.4
+        }
+      ]
+    }
+  },
+  {
+    "name": "04-search",
+    "memory": {
+      "mainRssMB": 229.6,
+      "heapUsedMB": 24.6,
+      "totalRssMB": 586.9,
+      "processes": [
+        {
+          "type": "Browser",
+          "rssMB": 229.6
+        },
+        {
+          "type": "GPU",
+          "rssMB": 123.4
+        },
+        {
+          "type": "Utility",
+          "rssMB": 45.6
+        },
+        {
+          "type": "Tab",
+          "rssMB": 188.3
+        }
+      ]
+    }
+  },
+  {
+    "name": "05-stats",
+    "memory": {
+      "mainRssMB": 237.9,
+      "heapUsedMB": 25.3,
+      "totalRssMB": 618,
+      "processes": [
+        {
+          "type": "Browser",
+          "rssMB": 237.9
+        },
+        {
+          "type": "GPU",
+          "rssMB": 122.5
+        },
+        {
+          "type": "Utility",
+          "rssMB": 45.6
+        },
+        {
+          "type": "Tab",
+          "rssMB": 212
+        }
+      ]
+    }
+  }
+]
