@@ -4,5 +4,7 @@ dist/
 sample-logs/
 captures/
 *.log
+# 提交到仓库的小规模测试数据（完整 2GB 数据集仍本地生成、不入库）
+!test-data/*.log
 .DS_Store
 *.tsbuildinfo

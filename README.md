@@ -49,6 +49,9 @@ npm install
 npm run gen:logs
 #   LOG_MAIN_MB=64 npm run gen:logs   # 快速小规模样例
 
+#    仓库已附带一份小规模测试数据（test-data/，共约 25MB），
+#    无需生成即可直接导入该目录体验全部功能。
+
 # 3. 启动应用（开发模式）
 npm run dev
 
